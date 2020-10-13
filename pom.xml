@@ -11,7 +11,7 @@
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
         <jacoco.version>0.7.5.201505241946</jacoco.version>
-        <junit.version>4.12</junit.version>
+        <junit.version>4.13.1</junit.version>
         <maven.compiler.version>3.6.0</maven.compiler.version>
         <maven.exec.version>1.6.0</maven.exec.version>
         <pmd.version>3.11.0</pmd.version>
